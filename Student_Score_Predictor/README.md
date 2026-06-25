@@ -1,4 +1,4 @@
-# 🎓 Student Performance Predictor
+#  Student Performance Predictor
 
 A machine learning project that predicts a student's Performance Index using Multiple Linear Regression implemented from scratch with NumPy.
 
